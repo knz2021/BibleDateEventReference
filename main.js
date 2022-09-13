@@ -31,7 +31,7 @@ function clickDisplay8() {
   element.innerHTML = "西暦前2369年　《虹》の契約";
 }
 function clickDisplay31() {
-  const element = document.getElementById("text-button8");
+  const element = document.getElementById("text-button31");
   element.innerHTML = "西暦前2269年以後　《バベル》の建設";
 }
 function clickDisplay9() {
