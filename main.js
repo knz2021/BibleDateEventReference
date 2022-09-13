@@ -193,5 +193,5 @@ function clickDisplay47() {
 }
 function clickDisplay48() {
   const element = document.getElementById("text-button48");
-  element.innerHTML = "《？》の契約が結ばれる";
+  element.innerHTML = "西暦前1919年《割礼》の契約が結ばれる";
 }
