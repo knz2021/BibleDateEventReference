@@ -30,6 +30,10 @@ function clickDisplay8() {
   const element = document.getElementById("text-button8");
   element.innerHTML = "西暦前2369年　《虹》の契約";
 }
+function clickDisplay31() {
+  const element = document.getElementById("text-button8");
+  element.innerHTML = "西暦前2269年以後　《バベル》の建設";
+}
 function clickDisplay9() {
   const element = document.getElementById("text-button9");
   element.innerHTML = "西暦前2018年　《アブラハム》の誕生";
@@ -170,4 +174,16 @@ function clickDisplay43() {
   const element = document.getElementById("text-button43");
   element.innerHTML =
     "西暦前455年　エルサレムの城壁は《ネヘミヤ》によって建て直される";
+}
+function clickDisplay44() {
+  const element = document.getElementById("text-button43");
+  element.innerHTML = "西暦前1933年以前　《ロト》は救い出される";
+}
+function clickDisplay45() {
+  const element = document.getElementById("text-button46");
+  element.innerHTML = "西暦前1913年　《イサク》の乳離れ　400年の苦しみの始まり";
+}
+function clickDisplay46() {
+  const element = document.getElementById("text-button46");
+  element.innerHTML = "《エサウ》と《ヤコブ》の誕生";
 }
