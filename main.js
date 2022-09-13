@@ -185,7 +185,7 @@ function clickDisplay45() {
 }
 function clickDisplay46() {
   const element = document.getElementById("text-button46");
-  element.innerHTML = "《エサウ》と《ヤコブ》の誕生";
+  element.innerHTML = "西暦前1878年　《エサウ》と《ヤコブ》の誕生";
 }
 function clickDisplay47() {
   const element = document.getElementById("text-button47");
