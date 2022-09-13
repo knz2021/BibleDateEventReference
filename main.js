@@ -98,7 +98,10 @@ function clickDisplay25() {
   const element = document.getElementById("text-button25");
   element.innerHTML = "西暦前1107年　《ダビデ》が《ベツレヘム》で生まれる";
 }
-
+function clickDisplay26() {
+  const element = document.getElementById("text-button26");
+  element.innerHTML = "西暦前1107年　ダビデはヘブロンで《ユダ》の王となる";
+}
 function clickDisplay27() {
   const element = document.getElementById("text-button27");
   element.innerHTML = "西暦前1070年　ダビデは全《イスラエル》の王となる";
