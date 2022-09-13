@@ -121,7 +121,7 @@ function clickDisplay30() {
 function clickDisplay32() {
   const element = document.getElementById("text-button32");
   element.innerHTML =
-    "西暦前936年　《エフォシャファト》はアサの跡を継いでユダの王となる";
+    "西暦前936年　《エホシャファト》はアサの跡を継いでユダの王となる";
 }
 function clickDisplay33() {
   const element = document.getElementById("text-button33");
