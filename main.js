@@ -176,14 +176,22 @@ function clickDisplay43() {
     "西暦前455年　エルサレムの城壁は《ネヘミヤ》によって建て直される";
 }
 function clickDisplay44() {
-  const element = document.getElementById("text-button43");
+  const element = document.getElementById("text-button44");
   element.innerHTML = "西暦前1933年以前　《ロト》は救い出される";
 }
 function clickDisplay45() {
-  const element = document.getElementById("text-button46");
+  const element = document.getElementById("text-button45");
   element.innerHTML = "西暦前1913年　《イサク》の乳離れ　400年の苦しみの始まり";
 }
 function clickDisplay46() {
   const element = document.getElementById("text-button46");
   element.innerHTML = "《エサウ》と《ヤコブ》の誕生";
+}
+function clickDisplay47() {
+  const element = document.getElementById("text-button47");
+  element.innerHTML = "西暦前1943年　《アブラハム》契約が発効する";
+}
+function clickDisplay48() {
+  const element = document.getElementById("text-button48");
+  element.innerHTML = "《？》の契約が結ばれる";
 }
